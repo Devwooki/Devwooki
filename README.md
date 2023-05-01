@@ -4,18 +4,27 @@
 ![header](https://capsule-render.vercel.app/api?color=809Ead&type=cylinder&text=WOOKI&reversal=true&height=250&section=header&fontColor=f0f3ff)
   </br>
 👋 THX  for visiting my profile 👋
+안녕하세요
+
+
   </br>
   </br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgmzuddl&count_bg=%23AEAEAE&title_bg=%23005487&icon=java.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)     
 
-####  :clipboard: Once I've Used 
 
-
+### 🔨Tech Stack🔧
+  </br>
+####  : Main Language
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+ </br>
+ 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
+ </br>
+ #### : ⚙️BackEnd
+ 
+ </br>
  
 
 
