@@ -35,7 +35,7 @@
  </br>
  </br>
  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dldnr789)](https://solved.ac/dldnr789)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dldnr789)](https://solved.ac/profile/dldnr789)
 </div>
 
 
