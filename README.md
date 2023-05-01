@@ -13,9 +13,7 @@
 </br>
 
 
-### 🔨Tech Stack🔧
-  </br>
-  </br>
+## 🔨Tech Stack🔧
 
 ####  🧑🏻Main Language🖥️
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
