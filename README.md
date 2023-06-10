@@ -60,7 +60,8 @@ empty,,,
 </br>
 
 
-|제목 셀1|제목 셀2|
+|GIT STATUS|solved.ac|
+|---|---|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devwooki&show_icons=true&theme=tokyonight)| [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dldnr789)](https://solved.ac/profile/dldnr789)|
 
