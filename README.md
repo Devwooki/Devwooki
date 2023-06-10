@@ -62,7 +62,7 @@ empty,,,
 
 |GIT STATUS|solved.ac|
 |---|---|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devwooki&show_icons=true&theme=tokyonight)| [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dldnr789)](https://solved.ac/profile/dldnr789)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devwooki&show_icons=true&theme=tokyonight)| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dldnr789)](https://solved.ac/profile/dldnr789)|
 
+</div>
 <!-- https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45_ -->
