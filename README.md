@@ -14,7 +14,11 @@
 
 <div align="center">
 </br>
-
+## 🖇️ Connect & Channels
+---
+- **Email** | dldnr789@gmail.com
+- **Github** | https://github.com/Devwooki
+- **Tistory** | 
 
 ## 🔨Tech Stack🔧
 |||
@@ -41,6 +45,22 @@
 
 ## 🔍 *Profile*
 ---
+### 🖥️ **Project**
+<details>
+  <summary>Puzzle Trip</summary>
+  
+</details>
+
+<details>
+  <summary>SSAFIX</summary>
+  
+</details>
+
+<details>
+  <summary>숫자야구</summary>
+  
+</details>
+
 ### 🏫 **Education**
 - [2016.02 ~ 2023.01] **한국기술교육대학교 컴퓨터공학부 (졸업)**
 <br>
@@ -53,11 +73,19 @@
 <br>
 <br>
 
+
 ### 🐥 Experience
 - **제 3회 Woori 코딩 페스티벌 본선참가 (2023.05.27)**
 - **삼성 청년 SW 아카데미 9기**
   - [2023.01 ~ 2023.05.26] 1학기 이수 (집중교육 800시간)
   - 학급 자치회(반장) : 학급 분위기 조성 및 정보 공유
+  - 스터디 수행
+  - |스터디 개요|기간|진행여부|저장소|
+  - |---|---|---|---|
+  - |알고리즘 스터디 ver 1|[2023.01 ~ 2023.02]|완료| 
+  - |알고리즘 스터디 ver 2|[2023.04 ~ ]|진행중|
+  - |CS스터디|[2023.01 ~ 2023.02]|완료|
+  - 
 - **한국정보통신기술협회 현장실습**
   - [2022.01.03 ~ 2022.06.17] 소프트웨어품질인증단 - GS인증평가 연구원 업무 수행
     - 엔드포인트 PC 보안 취약점 관리 솔루션
