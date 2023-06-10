@@ -59,7 +59,7 @@ empty,,,
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmzuddl&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devwooki&show_icons=true&theme=tokyonight)
  </br>
  </br>
  [![Solved.ac
