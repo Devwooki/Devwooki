@@ -12,7 +12,7 @@
 <br>
 
 ## 상세 프로필 
-### [Who is Devwooki?](https://wookdev.notion.site/wookdev/Devwooki-Profile-84b64724f444442ca2b3a3da537ee295)
+### [Who is wooki?](https://wookdev.notion.site/wookdev/Devwooki-Profile-84b64724f444442ca2b3a3da537ee295)
 
 
                                         
