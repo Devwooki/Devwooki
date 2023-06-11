@@ -14,11 +14,12 @@
 
 <div align="center">
 </br>
+
 ## 🖇️ Connect & Channels
 ---
 - **Email** | dldnr789@gmail.com
 - **Github** | https://github.com/Devwooki
-- **Tistory** | 
+- **Tistory** | https://devwooki.tistory.com/ (준비중)
 
 ## 🔨Tech Stack🔧
 |||
