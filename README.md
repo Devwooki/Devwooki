@@ -49,7 +49,7 @@
 <br>
 
 ## 🔍 *Profile*
----
+
 ### 🖥️ **Project**
 <details>
   <summary>Puzzle Trip</summary>
@@ -65,6 +65,8 @@
   <summary>숫자야구</summary>
   
 </details>
+<br>
+<br>
 
 ### 🏫 **Education**
 - [2016.02 ~ 2023.01] **한국기술교육대학교 컴퓨터공학부 (졸업)**
