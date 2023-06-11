@@ -5,6 +5,8 @@
   </br>
 </div>
 
+<br>
+
 > 사용자 편의성을 고려하는 개발자 **이현욱** 입니다.<br>
 > 배포, 좋은 품질의 코드, 비즈니스 로직 작성 법 등 아직 배울 것이 너무 많지만,<br>
 > **배우는 것의 즐거움**을 알고 있습니다.<br>
@@ -12,11 +14,12 @@
 
 > 문서로 이해한 내용을 **구현을 통해 익히는 것을 선호합니다.**
 
-<div align="center">
-</br>
 
+</br>
+<div align="center">
 ## 🖇️ Connect & Channels
----
+</div>
+
 - **Email** | dldnr789@gmail.com
 - **Github** | https://github.com/Devwooki
 - **Tistory** | https://devwooki.tistory.com/ (준비중)
@@ -33,7 +36,7 @@
 </br>
 
 ## ☺️ My Stats ☺️
----
+
 |GIT STATUS|solved.ac|
 |---|---|
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devwooki&show_icons=true&theme=tokyonight)| [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=dldnr789)](https://solved.ac/profile/dldnr789)|
