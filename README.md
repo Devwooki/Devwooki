@@ -26,7 +26,7 @@
 
 - **Email** | dldnr789@gmail.com
 - **Github** | https://github.com/Devwooki
-- **Tistory** | https://devwooki.tistory.com/ (준비중)
+- **Tistory** | https://devwooki.tistory.com/
 
 ## 🔨Tech Stack🔧
 |||
